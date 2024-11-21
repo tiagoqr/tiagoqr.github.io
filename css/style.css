@@ -1194,7 +1194,7 @@ frame
 }
 
 .mil-logo img {
-    width: 80px; /* Ajuste o tamanho */
+    width: 60px; /* Ajuste o tamanho */
     height: auto; /* Altura proporcional */
     display: block; /* Remover margens extras se necessário */
 }
