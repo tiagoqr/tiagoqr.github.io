@@ -1192,6 +1192,13 @@ frame
   font-weight: 500;
   line-height: 100%;
 }
+
+.mil-logo img {
+    width: 80px; /* Ajuste o tamanho */
+    height: auto; /* Altura proporcional */
+    display: block; /* Remover margens extras se necessário */
+}
+
 @media screen and (max-width: 992px) {
   .mil-logo {
     font-size: 36px;
